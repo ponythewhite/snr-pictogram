@@ -29,5 +29,9 @@
   },
   "forwardPorts": [
     8501
-  ]
+  ],
+  "features": {
+    "ghcr.io/eliises/devcontainer-features/devcontainers-cli:1": {},
+    "ghcr.io/deep-space-cartel/devcontainers-features/pip:1": {}
+  }
 }
